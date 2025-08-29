@@ -24,7 +24,6 @@ public class BfhlResponse {
     @JsonProperty("concat_string")
     private String concatString;
 
-    /* Getters and setters */
     public boolean isIsSuccess() {
         return isSuccess;
     }
